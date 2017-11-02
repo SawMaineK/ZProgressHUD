@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\My Android Project\\528Go Studio\\ZProgressHUD\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\round_spinner_apple.xml",
+        "source": "D:\\Android\\My Android Project\\528Go Studio\\ZProgressHUD\\build\\intermediates\\bundles\\debug\\res\\drawable\\round_spinner_apple.xml"
+    },
+    {
+        "merged": "D:\\Android\\My Android Project\\528Go Studio\\ZProgressHUD\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\round_spinner.xml",
+        "source": "D:\\Android\\My Android Project\\528Go Studio\\ZProgressHUD\\build\\intermediates\\bundles\\debug\\res\\drawable\\round_spinner.xml"
+    },
+    {
+        "merged": "D:\\Android\\My Android Project\\528Go Studio\\ZProgressHUD\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\gear_spinner.xml",
+        "source": "D:\\Android\\My Android Project\\528Go Studio\\ZProgressHUD\\build\\intermediates\\bundles\\debug\\res\\drawable\\gear_spinner.xml"
+    },
+    {
+        "merged": "D:\\Android\\My Android Project\\528Go Studio\\ZProgressHUD\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\round_spinner_fade.xml",
+        "source": "D:\\Android\\My Android Project\\528Go Studio\\ZProgressHUD\\build\\intermediates\\bundles\\debug\\res\\drawable\\round_spinner_fade.xml"
+    }
+]
